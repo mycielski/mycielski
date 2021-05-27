@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomek Mycielski
+- 👋 Hi, I’m Tom
 - 👀 I’m interested in programming and application security
 - 🎓 I’m currently enrolled in cybersecurity major in Warsaw University of Technology
 
