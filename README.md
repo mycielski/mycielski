@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mycielski
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently enrolled in cybersecurity bachelor's program in Warsaw University of Technology
+- 👋 Hi, I’m Tomek Mycielski
+- 👀 I’m interested in programming and application security
+- 🎓 I’m currently enrolled in cybersecurity major in Warsaw University of Technology
 
 <!---
 mycielski/mycielski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
