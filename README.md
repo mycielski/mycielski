@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom
 - 👀 I’m interested in programming and application security
-- 🎓 I’m currently enrolled in cybersecurity major in Warsaw University of Technology
+- 🎓 I’m currently enrolled in cybersecurity major at Warsaw University of Technology
 
 <!---
 mycielski/mycielski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
