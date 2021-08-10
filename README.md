@@ -1,10 +1,10 @@
 👋 Hi, I’m Tom
 
-👀 I’m interested in programming and enterprise security
+👀 Programming and enterprise security are my areas of interest
 
 🛡️ I work at T-Mobile Security Operations Center
 
-🎓 I’m currently enrolled in cybersecurity major at Warsaw University of Technology
+🎓 I study cybersecurity at Warsaw University of Technology
 
 <!---
 mycielski/mycielski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
