@@ -2,8 +2,6 @@
 
 👀 Programming and enterprise security are my areas of interest
 
-🛡️ I work at T-Mobile Security Operations Center
-
 🎓 I study cybersecurity at Warsaw University of Technology
 
 <!---
