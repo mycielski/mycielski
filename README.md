@@ -1,8 +1,31 @@
-👋 Hi, I’m Tom
-
-👀 Programming and enterprise security are my areas of interest
-
-🎓 I study cybersecurity at Warsaw University of Technology
+```
+                 __,__
+        .--.  .-"     "-.  .--.
+       / .. \/  .-. .-.  \/ .. \
+      | |  '|  /   Y   \  |'  | |
+      | \   \  \ 0 | 0 /  /   / |
+       \ '- ,\.-"`` ``"-./, -' /
+        `'-' /_   ^ ^   _\ '-'`
+        .--'|  \._   _./  |'--. 
+      /`    \   \ `~` /   /    `\
+     /       '._ '---' _.'       \
+    /           '~---~'   |       \
+   /        _.             \       \
+  /   .'-./`/        .'~'-.|\       \
+ /   /    `\:       /      `\'.      \
+/   |       ;      |         '.`;    /
+\   \       ;      \           \/   /
+ '.  \      ;       \       \   `  /
+   '._'.     \       '.      |   ;/_
+     /__>     '.       \_ _ _/   ,  '--.
+   .'   '.   .-~~~~~-. /     |--'`~~-.  \
+  // / .---'/  .-~~-._/ / / /---..__.'  /
+ ((_(_/    /  /      (_(_(_(---.__    .'
+           | |     _              `~~`
+           | |     \'.
+            \ '....' |
+             '.,___.'
+```
 
 <!---
 mycielski/mycielski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
