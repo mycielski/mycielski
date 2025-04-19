@@ -1,3 +1,117 @@
+<!---
+$$
+\oint_{
+\textcolor{green}{\mathcal{M}}
+\textcolor{SpringGreen}{\mathcal{Y}}
+\textcolor{cyan}{\mathcal{C}}
+\textcolor{SkyBlue}{\mathcal{I}}
+\textcolor{DodgerBlue}{\mathcal{E}}
+\textcolor{blue}{\mathcal{L}}
+\textcolor{MediumPurple}{\mathcal{S}}
+\textcolor{Violet}{\mathcal{K}}
+\textcolor{purple}{\mathcal{I}}
+}^{
+\textcolor{red}{\mathcal{T}}
+\textcolor{OrangeRed}{\mathcal{O}}
+\textcolor{orange}{\mathcal{M}}
+\textcolor{Gold}{\mathcal{A}}
+\textcolor{YellowGreen}{\mathcal{S}}
+\textcolor{LimeGreen}{\mathcal{Z}}
+}Engineer
+$$
+--->
+
+<!---
+<p align="center">
+  🇵🇱👑🦅🛡️
+</p>
+--->
+
+<p align="center">
+  🌞⚜️🌞
+</p>
+
+$$
+\mathcal{E}
+\mathcal{n}
+\mathcal{g}
+\mathcal{i}
+\mathcal{n}
+\mathcal{e}
+\mathcal{e}
+\mathcal{r}
+$$
+
+<p align="center">
+  👑🦅👑
+  <!---👑🦅🛡️--->
+</p>
+
+$$
+\mathcal{P}
+\mathcal{r}
+\mathcal{o}
+\mathcal{g}
+\mathcal{r}
+\mathcal{a}
+\mathcal{m}
+\mathcal{m}
+\mathcal{e}
+\mathcal{r}
+$$
+
+<p align="center">
+  🛫📡🛬
+  <!---🛩️📡🧮--->
+</p>
+
+$$
+\mathcal{P}
+\mathcal{r}
+\mathcal{e}
+\mathcal{t}
+\mathcal{t}
+\mathcal{y}
+~
+\mathcal{C}
+\mathcal{o}
+\mathcal{o}
+\mathcal{l}
+~
+\mathcal{G}
+\mathcal{u}
+\mathcal{y}
+$$
+
+<p align="center">
+   🎭🦉🎭
+  <!---🎭🔱🦉--->
+</p>
+
+<!---
+$$
+% MATHBB TOMASZ MYCIELSKI
+
+\textcolor{red}{\mathbb{T}}
+\textcolor{OrangeRed}{\mathbb{O}}
+\textcolor{orange}{\mathbb{M}}
+\textcolor{Gold}{\mathbb{A}}
+\textcolor{YellowGreen}{\mathbb{S}}
+\textcolor{LimeGreen}{\mathbb{Z}}
+~
+\textcolor{green}{\mathbb{M}}
+\textcolor{SpringGreen}{\mathbb{Y}}
+\textcolor{cyan}{\mathbb{C}}
+\textcolor{SkyBlue}{\mathbb{I}}
+\textcolor{DodgerBlue}{\mathbb{E}}
+\textcolor{blue}{\mathbb{L}}
+\textcolor{MediumPurple}{\mathbb{S}}
+\textcolor{Violet}{\mathbb{K}}
+\textcolor{purple}{\mathbb{I}}
+
+$$
+--->
+
 ```
                  __,__
         .--.  .-"     "-.  .--.
