@@ -142,7 +142,20 @@ $$
 ```
 
 $$
-\textcolor{red}{\Rightarrow}       % 1. Red
+\Rightarrow
+\mathbb{A}
+\mathbb{R}
+\mathbb{C}
+\mathbb{H}
+\mathbb{B}
+\mathbb{T}
+\mathbb{W}
+\Leftarrow
+$$
+
+<!---
+$$
+\textcolor{red}{\Rightarrow}      % 1. Red
 \textcolor{OrangeRed}{\mathbb{A}} % 2. OrangeRed
 \textcolor{orange}{\mathbb{R}}    % 3. Orange
 \textcolor{Goldenrod}{\mathbb{C}} % 4. Goldenrod (darker yellow)
@@ -151,8 +164,11 @@ $$
 \textcolor{cyan}{\mathbb{B}}      % 6. Cyan
 \textcolor{blue}{\mathbb{T}}      % 7. Blue
 \textcolor{Violet}{\mathbb{W}}    % 8. Violet
-\textcolor{purple}{\Leftarrow}   % 9. Purple
+\textcolor{purple}{\Leftarrow}    % 9. Purple
 $$
+--->
+
+
 
 <!---
 mycielski/mycielski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
