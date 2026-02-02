@@ -143,10 +143,9 @@ $$
 
 $$
 \Rightarrow
-\mathbb{A}
-\mathbb{R}
-\mathbb{C}
-\mathbb{H}
+\mathbb{N}
+\mathbb{I}
+\mathbb{X}
 \mathbb{B}
 \mathbb{T}
 \mathbb{W}
